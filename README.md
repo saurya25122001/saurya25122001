@@ -1,5 +1,5 @@
 ![MasterHead align="center"](https://i.postimg.cc/1XFc07hR/banner.jpg)
-<h1 align="center">Hello World! I'm Saurya Pratap</h1>
+<h1 align="center">Hello! I'm Saurya Pratap</h1>
 <h3 align="center">A passionate JAVA Developer</h3>
 
 
